@@ -26,22 +26,25 @@ type gopherAsciiArt struct {
 var gopher = gopherAsciiArt{
 	// height: 11
 	Head: `
-      CCCCCCCCCCCCCCCCCCCCCC      
- CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC, 
-CCCCCCCCWWWWWWWCCCCWWWWWWWCCCCCCCC
-CCCCCCWWBBWWWWWWCCWWBBWWWWCCCCCCC  
- CCCCCCWBBWWWWWCCCCWBBWWWWCCCCC   
-   CCCCCCCCCCCCBBBBCCCCCCCCCCCCC   
-  CCCCCCCCCCCYYYYYYYYCCCCCCCCCCC  
-  CCCCCCCCCCCCCWWWWWCCCCCCCCCCCC  
- YYYYYCCCCCCCCCCWWWCCCCCCCCCYYYYY
- YYYYYCCCCCCCCCCCCCCCCCCCCCCYYYYY  
+       #######   
+      #       #   
+     #         #   
+     #         #   
+     #         #   
+      #########   
 `,
-	Body: `  CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC   `,
+	Body: `      #       #   `,
 
 	// height: 2
-	Leg: ` YYYYYYCCCCCCCCCCCCCCCCCCCYYYYYYY   
-  YYYYYCCCCCCCCCCCCCCCCCCCYYYYYY   `,
+	Leg: `      #       #   
+      #       #   
+      #       #   
+ #####        #####
+#     #      #     #
+#     #      #     #
+#     #      #     #
+ ##### ###### #####
+`,
 }
 
 var (
