@@ -2,7 +2,7 @@
 
 # longgopher
 
-*looooooooooooooooooooong gopher!*
+*looooooooooooooooooooong ネオアームストロングジェットサイクロンアームストロング砲!*
 
 </div>
 
@@ -12,14 +12,14 @@ A command to show long gopher on your terminal! Inspired by: [mattn/longcat](htt
 
 <div align="center">
 
-![longgopher](https://user-images.githubusercontent.com/62412884/167132816-899fd76f-1678-4c0b-bda7-8999959f764d.png)
+![LongNeoArmStrongCannon](https://user-images.githubusercontent.com/44772513/170950854-007608b2-4393-4ca6-9061-bccee0ea2767.png)
 
 </div>
 
 ## 💻 Usage
 
 ```
-Usage of longgopher:
+Usage of LongNeoArmStrongCannon:
   -V    show version
   -l int
         length of gopher's body (default 10)
@@ -31,22 +31,14 @@ Usage of longgopher:
 
 You can download binary from the release page.
 
-> [Latest Release](https://github.com/sheepla/longgopher/releases/latest)
+> [Latest Release](https://github.com/mochi-sann/long-neo-armstrong-cannon/releases/latest)
 
 ### Build From Source
 
 ```
-go install github.com/sheepla/longgopher@latest
+go install github.com/mochi-sann/long-neo-armstrong-cannon@latest
 ```
 
-## 🌲 Derived Projects
-
-- 🐮 [syumai/longify](https://github.com/syumai/longify): A command to output longified any ascii art
-- 🦕 [arrow2nd/longdeno](https://github.com/arrow2nd/longdeno): Looooooooooooooooooooooooooooooooooooooooooooooong [Deno](https://deno.land)
-- 🦀 [ikanago/longferris](https://github.com/ikanago/longferris): Long [Ferris](https://github.com/ciusji/ferris) written in Rust
-- 🐍 [4513ECHO/longpython](https://github.com/4513ECHO/longpython): CLI tool to print long python
-- 🌊 [koutarn/longlongC](https://github.com/koutarn/longlongC): long long C written in C
-- ➕ [ma-tw/longcpp](https://github.com/ma-tw/longcpp): long long C++ written in C++
 
 *I'm looking forward to many derivative projects being created!*
 
@@ -56,7 +48,7 @@ go install github.com/sheepla/longgopher@latest
 
 ## 🐑 Author
 
-[Sheepla](https://github.com/sheepla)
+[mochi-sann](https://github.com/mochi-sann)
 
 
 ## 🙋 Contributing
