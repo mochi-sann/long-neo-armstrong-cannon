@@ -2,13 +2,13 @@
 
 # long-neo-armstrong-cannon
 
-*looooooooooooooooooooong ネオアームストロングジェットサイクロンアームストロング砲!*
+*looooooooooooooooooooong Neo-Armstrong jet cyclone Armstrong cannon!*
 
 </div>
 
 ## 🤔 What's this?
 
-A command to show long gopher on your terminal! Inspired by: [mattn/longcat](https://github.com/mattn/longcat) 😺
+A command to show long Neo-Armstrong jet cyclone Armstrong cannon on your terminal! Inspired by: [mattn/longcat](https://github.com/mattn/longcat) 😺
 
 <div align="center">
 
@@ -48,6 +48,7 @@ go install github.com/mochi-sann/long-neo-armstrong-cannon@latest
 
 ## 🐑 Author
 
+[Sheepla](https://github.com/sheepla)    
 [mochi-sann](https://github.com/mochi-sann)
 
 
