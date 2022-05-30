@@ -1,6 +1,6 @@
 <div align="center">
 
-# longgopher
+# long-neo-armstrong-cannon
 
 *looooooooooooooooooooong ネオアームストロングジェットサイクロンアームストロング砲!*
 
