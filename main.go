@@ -37,8 +37,6 @@ var gopher = gopherAsciiArt{
 
 	// height: 2
 	Leg: `      #       #   
-      #       #   
-      #       #   
  #####        ######
 #     #       #     #
 #     #       #     #
@@ -62,7 +60,7 @@ var (
 )
 
 func main() {
-	flag.IntVar(&length, "l", 10, "length of gopher's body")
+	flag.IntVar(&length, "l", 10, "length of neo arm stlong's body")
 	flag.BoolVar(&version, "V", false, "show version")
 	flag.Parse()
 	if version {
